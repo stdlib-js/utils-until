@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-17)
+## Unreleased (2024-09-20)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`506bdcc`](https://github.com/stdlib-js/stdlib/commit/506bdccd0841d8c1e56df5587de6c32c2c7ec498) - use correct parameter ordering in TS
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`506bdcc`](https://github.com/stdlib-js/stdlib/commit/506bdccd0841d8c1e56df5587de6c32c2c7ec498) - **fix:** use correct parameter ordering in TS _(by Philipp Burckhardt)_
 -   [`cadb613`](https://github.com/stdlib-js/stdlib/commit/cadb6131d6ce50338d11757e88e8a910a0367983) - **chore:** update argument documentation styling _(by Philipp Burckhardt)_
 
 </details>
